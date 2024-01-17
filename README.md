@@ -1,20 +1,15 @@
-<h1 align="center">Hi 👋, I'm Diksha Kumari</h1>
-<h3 align="center">A passionate frontend developer</h3>
+### Hi there 👋, my name is Diksha Kumari
+#### I'm a passionate frontend developer
+![I'm a passionate frontend developer](https://media.licdn.com/dms/image/D4E16AQG7amkaIcWcEg/profile-displaybackgroundimage-shrink_350_1400/0/1673717376065?e=1710979200&v=beta&t=zY7bfanYP1bbvbxiNDmBuJObYO1zV9VMxKn38-qrhEE)
 
-- 🔭 I’m currently working on **Home Renovation Project**
+I'm Diksha Kumari Frontend Developer. passionate about building engaging user interfaces. I have been working as a React Developer for the past two year and have gained a lot of experience in the field. In addition to my React development skills, I am also an expert in HTML5, CSS3,VueJs,TypeScript and JavaScript. I have a deep understanding of the latest web development trends and technologies. I really enjoy wireframing, ui, ux and design in general. You can check out my portfolio at
+https://portfolio-diksha.netlify.app/
 
-- 👨‍💻 All of my projects are available at [https://portfolio-diksha.netlify.app/](https://portfolio-diksha.netlify.app/)
+Skills: VUE JS / REACT / JS / HTML / CSS/JAVASCRIPT/TYPESCRIPT/MATERIAL UI
 
-- 💬 Ask me about **reactjs,vuejs,html5,css3,typescript,javascript,material UI,bootstrap**
+- 🔭 I’m currently working on Home Renovation Project 
+- 📫 How to reach me: dikshadishu1802@gmail.com 
 
-- 📫 How to reach me **dikshadishu1802@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diksha0608)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dikshakumari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-diksha.netlify.app/)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dikshakumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshakumari" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
