@@ -2,7 +2,7 @@
 
 ![I'm a passionate frontend developer](https://media.licdn.com/dms/image/D4E16AQG7amkaIcWcEg/profile-displaybackgroundimage-shrink_350_1400/0/1673717376065?e=1710979200&v=beta&t=zY7bfanYP1bbvbxiNDmBuJObYO1zV9VMxKn38-qrhEE)
 
-I'm a Frontend Developer. passionate about building engaging user interfaces. I have been working as a React Developer for the past two year and have gained a lot of experience in the field. In addition to my React development skills, I am also an expert in HTML5, CSS3,VueJs,TypeScript and JavaScript. I have a deep understanding of the latest web development trends and technologies. I really enjoy wireframing, ui, ux and design in general. You can check out my portfolio at
+I'm a Frontend Developer passionate about building engaging user interfaces. I have been working as a React Developer for the past two year and have gained a lot of experience in the field. In addition to my React development skills, I am also an expert in HTML5, CSS3,VueJs,TypeScript and JavaScript. I have a deep understanding of the latest web development trends and technologies. I really enjoy wireframing, ui, ux and design in general. You can check out my portfolio at
 https://portfolio-diksha.netlify.app/
 
 Skills: VUE JS / REACT / JS / HTML / CSS/JAVASCRIPT/TYPESCRIPT/MATERIAL UI
