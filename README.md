@@ -4,6 +4,6 @@ I'm Diksha Kumari Frontend Developer. passionate about building engaging user in
 https://portfolio-diksha.netlify.app/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikshakumaria&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksha0608&theme=dark&show_icons=true)
 
 
