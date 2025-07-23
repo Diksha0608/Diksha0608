@@ -6,7 +6,7 @@ I'm a Frontend Developer passionate about building engaging user interfaces. I h
 
 Skills: VUE JS / REACT / JS / HTML / CSS/ JAVASCRIPT/ TYPESCRIPT/ MATERIAL UI/ Vanilla CSS/ Django
 
-- 🔭 I’m currently working on Home Renovation Project 
+- 🔭 I’m currently working on Weather App
 - 📫 How to reach me: dikshadishu1802@gmail.com 
 
 
